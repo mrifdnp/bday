@@ -4,8 +4,8 @@
 using namespace std;
 string ans;
 int main(){
-	//what u should do : just f11 (compile n run it) :)
-	cout<<"To : Alvilovia Zahra";
+	//what u should do : just run it) :)
+	cout<<"To : A*****v** Z****";
 	
 	
 	string str ="Loading, Please wait!\n";
@@ -20,7 +20,7 @@ int main(){
 	}
 	
 	system("cls");
-	cout<<"To : Alvilovia Zahra";
+	cout<<"To : A*****v** Z****";
 	string stri ="Fully loaded,\n";
 	cout<<"\n\n\t";
 	cout<<stri;
@@ -36,7 +36,7 @@ int main(){
 	system("cls");
 	
 	sini:
-	cout<<"To : Alvilovia Zahra"<<endl;	
+	cout<<"To : A*****v** Z****"<<endl;	
 	cout<<"your birthday is on the Feb 24th ?ans:yes/no"<<endl;
 	cout<<"ans : ";
 	cin>>ans;
